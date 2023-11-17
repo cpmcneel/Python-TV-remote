@@ -35,3 +35,5 @@ class Television:
                 self.__channel = self.MAX_CHANNEL
             else:
                 self.__channel -= 1
+
+    #lets hope this works lol
