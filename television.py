@@ -36,4 +36,5 @@ class Television:
             else:
                 self.__channel -= 1
 
-    #lets hope this works lol
+    def volume_up(self):
+        pass
